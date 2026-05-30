@@ -119,6 +119,6 @@ You can modify:
 
 MIT License - see the LICENSE file for details
 
----
+## Acknowledgements
 
-*Created for freeCodeCamp JavaScript Algorithms and Data Structures certification*
+This project was built as part of my learning journey with freeCodeCamp. The requirements and concept are based on their JavaScript Algorithms and Data Structures certification.
